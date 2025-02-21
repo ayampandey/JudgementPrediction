@@ -1,2 +1,2 @@
-data/
-data/*
+# Ignore everything inside the data/pdfs folder
+data/pdfs/
