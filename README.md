@@ -83,7 +83,6 @@ JudgementPrediction/
 │-- app.py                   # Flask API
 │-- model.pkl                 # Trained ML model
 │-- extract_text.py           # PDF text extraction script
-│-- requirements.txt          # Python dependencies
 │-- data/                     # Contains court judgment texts (Not included in repo)
 │-- static/                   # Frontend assets (if applicable)
 │-- templates/                # HTML Templates (if applicable)
