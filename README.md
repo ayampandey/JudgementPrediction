@@ -50,7 +50,7 @@ venv\Scripts\activate  # On Windows
 
 ### 3️⃣ Install Dependencies
 
-```
+
 
 ### 4️⃣ Run the Flask API
 ```sh
